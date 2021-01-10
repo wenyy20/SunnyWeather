@@ -48,7 +48,7 @@
             android:name="com.sunnyweather.android.ui.place.PlaceFragment"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_marginTop="25dp"/>
+            android:layout_marginTop="25dp" />
 
     </FrameLayout>
 
